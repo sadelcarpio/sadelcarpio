@@ -1,16 +1,14 @@
-### Hi there 👋
+### ¡Hola!
+Soy Sergio Del Carpio, egresado de Ingeniería Electrónica en la Universidad Nacional de Ingeniería
 
-<!--
-**sadelcarpio/sadelcarpio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://scitechdaily.com/images/Machine-Learning-AI-Concept.gif">
 
-Here are some ideas to get you started:
+Me interesan mucho los proyectos relacionados con:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Deep Learning 🤖
+- Data Science 🦾
+- Computer Vision 👁️
+- Diseño Web 🕸️
+- Programación en Python 🐍
+
+Suelo utilizar Python, C, JavaScript, CSS, HTML para mis proyectos, y me gusta siempre averiguar sobre nuevas tecnologías y mejores prácticas a la hora de apredner sobre un tema 🌻
