@@ -11,4 +11,4 @@ Me interesan mucho los proyectos relacionados con:
 - Diseño Web 🕸️
 - Programación en Python 🐍
 
-Suelo utilizar Python, C, JavaScript, CSS, HTML para mis proyectos, y me gusta siempre averiguar sobre nuevas tecnologías y mejores prácticas a la hora de apredner sobre un tema 🌻
+Suelo utilizar Python, C, JavaScript, CSS, HTML para mis proyectos, y me gusta siempre averiguar sobre nuevas tecnologías y mejores prácticas a la hora de aprender sobre un tema 🌻
