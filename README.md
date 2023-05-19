@@ -1,12 +1,9 @@
-### ¡Hola!
-Soy Sergio Del Carpio, egresado de Ingeniería Electrónica en la Universidad Nacional de Ingeniería
-
-Me interesan mucho los proyectos relacionados con:
-
-- Deep Learning 🤖
-- Data Science 🦾
-- Computer Vision 👁️
-- Diseño Web 🕸️
-- Programación en Python 🐍
-
-Suelo utilizar Python, C, JavaScript, CSS, HTML para mis proyectos, y me gusta siempre averiguar sobre nuevas tecnologías y mejores prácticas a la hora de aprender sobre un tema 🌻
+### ¡Hi!
+My name is Sergio Del Carpio, graduate student from National University of Engineering, Lima, Perú
+My main interests are about:
+- Deep Learning (TensorFlow, Pytorch)
+- Python Web Development (FastAPI, Flask, Serverless)
+- Mobile Development in Flutter
+- Embedded Development in C
+- Game Development in C++
+Also curious about MLOps, LLMs, Software Architectures and Software Best Practices in General 👽
