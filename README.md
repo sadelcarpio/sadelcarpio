@@ -6,4 +6,5 @@ My main interests are about:
 - Mobile Development in Flutter
 - Embedded Development in C
 - Game Development in C++
+
 Also curious about MLOps, LLMs, Software Architectures and Software Best Practices in General 👽
